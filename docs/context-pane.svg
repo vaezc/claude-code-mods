@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="418" height="372" viewBox="0 0 418 372" role="img" aria-label="context-pane screenshot">
+<rect width="100%" height="100%" rx="8" fill="#262626"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Noto Sans Mono CJK SC',monospace" font-size="14">
+<text x="16.0" y="31" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">已使用</text>
+<text x="74.8" y="31" fill="rgb(230,230,230)" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">6%</text>
+<text x="335.2" y="31" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">62k</text>
+<text x="368.8" y="31" fill="rgb(230,230,230)" textLength="8.4" lengthAdjust="spacingAndGlyphs">/</text>
+<text x="385.6" y="31" fill="rgb(230,230,230)" textLength="16.8" lengthAdjust="spacingAndGlyphs">1M</text>
+<rect x="16.0" y="39" width="8.4" height="14" fill="rgb(178,102,255)" opacity="1"/>
+<rect x="24.4" y="39" width="8.4" height="14" fill="rgb(255,153,51)" opacity="1"/>
+<rect x="32.8" y="39" width="8.4" height="14" fill="rgb(102,204,204)" opacity="1"/>
+<rect x="41.2" y="39" width="8.4" height="14" fill="rgb(153,153,153)" opacity="0.55"/>
+<rect x="49.6" y="39" width="352.8" height="14" fill="rgb(153,153,153)" opacity="0.22"/>
+<rect x="16.5" y="61.5" width="7.4" height="7.4" fill="rgb(153,153,153)"/>
+<text x="32.8" y="71" fill="rgb(230,230,230)" textLength="92.4" lengthAdjust="spacingAndGlyphs">Autocompact</text>
+<text x="133.6" y="71" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">buffer</text>
+<text x="318.4" y="71" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">33k</text>
+<text x="368.8" y="71" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">3.3%</text>
+<rect x="16.5" y="81.5" width="7.4" height="7.4" fill="rgb(178,102,255)"/>
+<text x="32.8" y="91" fill="rgb(230,230,230)" textLength="67.2" lengthAdjust="spacingAndGlyphs">Messages</text>
+<text x="301.6" y="91" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">18.1k</text>
+<text x="368.8" y="91" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">1.8%</text>
+<rect x="16.5" y="101.5" width="7.4" height="7.4" fill="rgb(255,153,51)"/>
+<text x="32.8" y="111" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">Memory</text>
+<text x="91.6" y="111" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">files</text>
+<text x="301.6" y="111" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">17.8k</text>
+<text x="368.8" y="111" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">1.8%</text>
+<rect x="16.5" y="121.5" width="7.4" height="7.4" fill="rgb(255,204,0)"/>
+<text x="32.8" y="131" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">Skills</text>
+<text x="310.0" y="131" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">9.9k</text>
+<text x="368.8" y="131" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">1.0%</text>
+<rect x="16.5" y="141.5" width="7.4" height="7.4" fill="rgb(102,204,204)"/>
+<text x="32.8" y="151" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">MCP</text>
+<text x="66.4" y="151" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">tools</text>
+<text x="310.0" y="151" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">7.4k</text>
+<text x="368.8" y="151" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">0.7%</text>
+<rect x="16.5" y="161.5" width="7.4" height="7.4" fill="rgb(136,136,136)"/>
+<text x="32.8" y="171" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">System</text>
+<text x="91.6" y="171" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">prompt</text>
+<text x="310.0" y="171" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">3.4k</text>
+<text x="368.8" y="171" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">0.3%</text>
+<rect x="16.5" y="181.5" width="7.4" height="7.4" fill="rgb(102,255,102)"/>
+<text x="32.8" y="191" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">MCP</text>
+<text x="66.4" y="191" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">server</text>
+<text x="125.2" y="191" fill="rgb(230,230,230)" textLength="100.8" lengthAdjust="spacingAndGlyphs">instructions</text>
+<text x="310.0" y="191" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">3.1k</text>
+<text x="368.8" y="191" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">0.3%</text>
+<rect x="16.5" y="201.5" width="7.4" height="7.4" fill="rgb(153,153,153)"/>
+<text x="32.8" y="211" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">System</text>
+<text x="91.6" y="211" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">tools</text>
+<text x="310.0" y="211" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">1.9k</text>
+<text x="368.8" y="211" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">0.2%</text>
+<rect x="16.5" y="221.5" width="7.4" height="7.4" fill="rgb(153,204,255)"/>
+<text x="32.8" y="231" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">Custom</text>
+<text x="91.6" y="231" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">agents</text>
+<text x="318.4" y="231" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">284</text>
+<text x="368.8" y="231" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">0.0%</text>
+<rect x="16.5" y="241.5" width="7.4" height="7.4" fill="none" stroke="rgb(136,136,136)"/>
+<text x="32.8" y="251" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">Free</text>
+<text x="74.8" y="251" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">space</text>
+<text x="310.0" y="251" fill="rgb(230,230,230)" textLength="33.6" lengthAdjust="spacingAndGlyphs">905k</text>
+<text x="360.4" y="251" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">90.5%</text>
+<text x="32.8" y="271" fill="rgb(153,153,153)" textLength="25.2" lengthAdjust="spacingAndGlyphs">MCP</text>
+<text x="66.4" y="271" fill="rgb(153,153,153)" textLength="42.0" lengthAdjust="spacingAndGlyphs">tools</text>
+<text x="116.8" y="271" fill="rgb(153,153,153)" textLength="84.0" lengthAdjust="spacingAndGlyphs">(deferred)</text>
+<text x="293.2" y="271" fill="rgb(153,153,153)" textLength="50.4" lengthAdjust="spacingAndGlyphs">135.8k</text>
+<text x="394.0" y="271" fill="rgb(153,153,153)" textLength="8.4" lengthAdjust="spacingAndGlyphs">—</text>
+<text x="32.8" y="291" fill="rgb(153,153,153)" textLength="50.4" lengthAdjust="spacingAndGlyphs">System</text>
+<text x="91.6" y="291" fill="rgb(153,153,153)" textLength="42.0" lengthAdjust="spacingAndGlyphs">tools</text>
+<text x="142.0" y="291" fill="rgb(153,153,153)" textLength="84.0" lengthAdjust="spacingAndGlyphs">(deferred)</text>
+<text x="301.6" y="291" fill="rgb(153,153,153)" textLength="42.0" lengthAdjust="spacingAndGlyphs">22.8k</text>
+<text x="394.0" y="291" fill="rgb(153,153,153)" textLength="8.4" lengthAdjust="spacingAndGlyphs">—</text>
+<text x="16.0" y="311" fill="rgb(230,230,230)" textLength="8.4" lengthAdjust="spacingAndGlyphs">▸</text>
+<text x="32.8" y="311" fill="rgb(230,230,230)" textLength="50.4" lengthAdjust="spacingAndGlyphs">Memory</text>
+<text x="91.6" y="311" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">files</text>
+<text x="142.0" y="311" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">(3)</text>
+<text x="16.0" y="331" fill="rgb(230,230,230)" textLength="8.4" lengthAdjust="spacingAndGlyphs">▸</text>
+<text x="32.8" y="331" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">MCP</text>
+<text x="66.4" y="331" fill="rgb(230,230,230)" textLength="42.0" lengthAdjust="spacingAndGlyphs">tools</text>
+<text x="116.8" y="331" fill="rgb(230,230,230)" textLength="25.2" lengthAdjust="spacingAndGlyphs">top</text>
+<text x="150.4" y="331" fill="rgb(230,230,230)" textLength="8.4" lengthAdjust="spacingAndGlyphs">5</text>
+<text x="16.0" y="351" fill="rgb(153,153,153)" textLength="84.0" lengthAdjust="spacingAndGlyphs">分项更新于</text>
+<text x="108.4" y="351" fill="rgb(153,153,153)" textLength="67.2" lengthAdjust="spacingAndGlyphs">15:36:58</text>
+</g>
+</svg>

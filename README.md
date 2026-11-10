@@ -6,19 +6,7 @@ Claude Code 的 mod（function-hooks 插件）合集。
 
 在 Claude Code 终端对话区旁边常驻一个面板，实时显示当前会话的上下文占用，数字与 `/context` 一致：
 
-```
-已使用 6%                    62.1k / 1M
-█████▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-■ Autocompact buffer        33k   3.3%
-■ Messages                18.2k   1.8%
-■ Memory files            17.8k   1.8%
-■ Skills                   9.9k   1.0%
-□ Free space             904.9k  90.5%
-  MCP tools (deferred)   135.8k      —
-▸ Memory files (3)
-▸ MCP tools top 5
-分项更新于 15:13:54
-```
+<img src="docs/context-pane.svg" alt="context-pane 面板：第一行总占用，下面是彩色进度条和按类别的 token 分项表" width="418">
 
 - 第一行总占用随每次用量变化更新（不额外调用接口）。
 - 分项表在会话开始和每轮回答结束时重新统计，方式与 `/context` 相同；统计失败时退回本地估算，并标注"(估算)"。
