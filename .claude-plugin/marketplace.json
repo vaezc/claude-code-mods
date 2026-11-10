@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-mods",
+  "owner": { "name": "vaezc" },
+  "plugins": [
+    {
+      "name": "context-pane",
+      "source": "./context-pane",
+      "description": "A pane beside the chat showing the session's context usage by category, like /context"
+    }
+  ]
+}

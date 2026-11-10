@@ -1,0 +1,6 @@
+{
+  "name": "context-pane",
+  "version": "0.1.0",
+  "description": "A pane beside the chat showing the session's context usage by category, like /context",
+  "types": "./types/index.d.ts"
+}
